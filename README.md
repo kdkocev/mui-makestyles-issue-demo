@@ -40,7 +40,7 @@ After that
 
 ## Fix for the bug:
 
-The bug has been fixed in the branch called (coming soon)
+The bug has been fixed in [this PR](https://github.com/kdkocev/mui-makestyles-issue-demo/pull/1)
 
 ---
 
